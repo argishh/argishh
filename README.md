@@ -36,7 +36,6 @@
 
 
 
-# 
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -46,6 +45,5 @@
     <!-- <a href="https://www.argishh.com"><img src="https://img.shields.io/badge/-argishh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 </p>
 
-# 
 ## 🎶 &nbsp;Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr5aiyc686c9pls3917ic24s1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/dr5aiyc686c9pls3917ic24s1?si=e4e7c142e452410d&redirect=true)
