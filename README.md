@@ -3,12 +3,14 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;An Explorer, always in search for new technologies.\
-🎓 &nbsp;Currently studying Computer Science amd Machine Learning at Vellore Institute of Technology.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me anytime.\
-✉️ &nbsp;You can shoot me an email at abhangiargish@gmail.com.  I'll try to respond as soon as I can.
+```
+💡    An Explorer, always in search for new technologies.
+🎓   Currently studying Computer Science amd Machine Learning at Vellore Institute of Technology.
+🌱   I'm on track for learning more about Artificial Intelligence.
+✍️   In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+💬   Feel free to reach out to me anytime.
+✉️   You can shoot me an email at abhangiargish@gmail.com.  I'll try to respond as soon as I can.
+```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 <br>
 
@@ -17,7 +19,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\ -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
@@ -28,7 +29,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=D8BFD8)
-<br>
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\ -->
 <br>
 
 ## 🐱‍👤 &nbsp;GitHub Stats
