@@ -1,5 +1,7 @@
 ![image](Top.png)
 
+<br>
+
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;An Explorer, always in search for new technologies.\
 🎓 &nbsp;Currently studying Computer Science amd Machine Learning at Vellore Institute of Technology.\
@@ -8,6 +10,7 @@
 💬 &nbsp;Feel free to reach out to me anytime.\
 ✉️ &nbsp;You can shoot me an email at abhangiargish@gmail.com.  I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<br>
 
 ## ⚔ &nbsp;My Arsenal
 
@@ -25,7 +28,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=D8BFD8)
-
+<br>
+<br>
 
 ## 🐱‍👤 &nbsp;GitHub Stats
 
@@ -33,7 +37,7 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=argishh&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats"></p> 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argishh&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&include_all_commits=true&count_private=true&theme=gotham" alt="Argish's Github Stats"></p> 
-
+<br>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -44,6 +48,7 @@
     <a href="https://instagram.com/argishh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <!-- <a href="https://www.argishh.com"><img src="https://img.shields.io/badge/-argishh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 </p>
+<br>
 
-## 🎶 &nbsp;Now Playing
+## 🎶 &nbsp;Listening To...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr5aiyc686c9pls3917ic24s1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/dr5aiyc686c9pls3917ic24s1?si=e4e7c142e452410d&redirect=true)
