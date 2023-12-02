@@ -1,7 +1,8 @@
+<!--
 ![image](Top.png)
 
 <br>
-
+-->
 ### 👨🏻‍💻 &nbsp;About Me
 ```
 💡    An Explorer, always in search for new technologies.
