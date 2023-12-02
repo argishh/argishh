@@ -5,12 +5,12 @@
 -->
 ### 👨🏻‍💻 &nbsp;About Me
 ```
-💡    An Explorer, always in search for new technologies.
-🎓   Currently studying Computer Science amd Machine Learning at Vellore Institute of Technology.
-🌱   I'm on track for learning more about Artificial Intelligence.
-✍️   In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬   Feel free to reach out to me anytime.
-✉️   You can shoot me an email at abhangiargish@gmail.com.  I'll try to respond as soon as I can.
+💡    An Explorer in search for new technologies.
+🎓   Currently studying Computer Science and Machine Learning at Vellore Institute of Technology.
+🌱   Wandering in the boundless world of Artificial Intelligence.
+✍️   In my free time, I work on Graphic Designing and Content Writing.
+💬   Feel free to reach out to me anytime!
+✉️   You can shoot me an email at abhangiargish@gmail.com.
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 <br>
