@@ -4,13 +4,13 @@
 <br>
 -->
 ### 👨🏻‍💻 &nbsp;About Me
-```
-💡    An Explorer in search for new technologies.
-🎓   Currently studying Computer Science and Machine Learning at Vellore Institute of Technology.
-🌱   Wandering in the boundless world of Artificial Intelligence.
-✍️   In my free time, I work on Graphic Designing and Content Writing.
+```py3
+💡    A Visionary caught up in a quest to develop new technologies
+🎓   Currently studying CSE - AI/ML at 'Vellore Institute of Technology'
+🌱   Wandering in the boundless world of Artificial Intelligence
+✍️   In my free time, I work on Graphic Designing and Content Writing
 💬   Feel free to reach out to me anytime!
-✉️   You can shoot me an email at abhangiargish@gmail.com.
+✉️   You can shoot me an email at 'abhangiargish@gmail.com'
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 <br>
@@ -45,9 +45,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <a href="mailto:abhangiargish@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/argish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/argishh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:abhangiargish@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <!-- <a href="https://www.argishh.com"><img src="https://img.shields.io/badge/-argishh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 </p>
 <br>
