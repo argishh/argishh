@@ -2,11 +2,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-```
+```py
 💻 An ML Engineer and A Visionary caught up in a quest to develop new technologies
 🎓 Final year - CSE - AI/ML at Vellore Institute of Technology
 🍴  I eat 7 research papers on CV for breakfast, 12 papers on LLMs for lunch, and 18 papers on Generative AI for dinner
-💤 In my free time, I sleep, coz that's the only free time I have! Apart from Sundays, when I can be found designing graphics or playing guitar
+💤 I sleep in my free time coz hat's the only free time I have!
+🎸 Apart from Sundays, when I usually playing guitar or design graphics
 💬 Feel free to reach out to me anytime! My Socials are linked at the bottom 👇
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
@@ -62,6 +63,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=f37b2d)&nbsp;
+![Google Colab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=2bdb90)&nbsp;
 
 </details>
@@ -89,6 +91,10 @@
 
 <p align="center">
 <img width="70%" src="https://wakatime.com/share/@018d0bd2-fa47-40ad-97b5-e0ec98be21ea/b3a7fe44-d0c6-4bf9-8ab6-e2b749caba3c.svg" alt="Argish's Language Stats">
+</p>
+
+<p align="center">
+p.s. The 'Other' language here is Python itself (.ipynb)
 </p>
 
 <!--END_SECTION:waka-->
