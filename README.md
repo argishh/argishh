@@ -3,11 +3,11 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 ```
-💻 An ML Engineer and A Visionary caught up in a quest to develop new technologies\
-🎓 Final year - CSE - AI/ML at Vellore Institute of Technology\
-🍴  I eat 7 research papers on CV for breakfast, 12 papers on LLMs for lunch and 18 papers on Generative AI for dinner\
-💤 In my free time, I sleep, coz that's the only free time I have! Apart from sundays, when I can be found designing graphics or playing guitar\
-💬 Feel free to reach out to me anytime! My Socials are linked below 👇\
+💻 An ML Engineer and A Visionary caught up in a quest to develop new technologies
+🎓 Final year - CSE - AI/ML at Vellore Institute of Technology
+🍴  I eat 7 research papers on CV for breakfast, 12 papers on LLMs for lunch, and 18 papers on Generative AI for dinner
+💤 In my free time, I sleep, coz that's the only free time I have! Apart from Sundays, when I can be found designing graphics or playing guitar
+💬 Feel free to reach out to me anytime! My Socials are linked at the bottom 👇
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
