@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-p.s. The 'Other' language here is Python itself (.ipynb)
+p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 </p>
 
 <!--END_SECTION:waka-->
