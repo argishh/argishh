@@ -121,4 +121,4 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 <br>
 
 ## 🎶 &nbsp;Listening To...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr5aiyc686c9pls3917ic24s1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/dr5aiyc686c9pls3917ic24s1?si=e4e7c142e452410d&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dr5aiyc686c9pls3917ic24s1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dr5aiyc686c9pls3917ic24s1&redirect=true)
