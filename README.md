@@ -113,7 +113,7 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 <p align="center">
     <a href="https://www.linkedin.com/in/argish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:argish.official@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-d94437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://discordapp.com/users/484022812948824064" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discordapp.com/users/1265931018141962282" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.reddit.com/user/argishh/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-da430c?style=for-the-badge&logo=reddit&logoColor=white" /></a>
     <a href="https://instagram.com/argishh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ce317c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <!-- <a href="https://www.argishh.com"><img src="https://img.shields.io/badge/-argishh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
