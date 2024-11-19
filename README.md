@@ -6,9 +6,9 @@
 💻 An ML Engineer and A Visionary caught up in a quest to develop new technologies
 🎓 Final year - CSE - AI/ML at Vellore Institute of Technology
 🍴  I eat 7 research papers on CV for breakfast, 12 papers on LLMs for lunch, and 18 papers on Generative AI for dinner
-💤 I sleep in my free time coz hat's the only free time I have!
-🎸 Apart from Sundays, when I usually playing guitar or design graphics
-💬 Feel free to reach out to me anytime! My Socials are linked at the bottom 👇
+💤 I sleep in my free time (coz that's the only free time I have!)
+🎸 You might find me playing ukulele or flute on Sundays
+💬 Feel free to reach out anytime! My Socials are linked at the bottom 👇
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
