@@ -5,7 +5,8 @@
 ```py
 💻 An AI Developer and a Visionary caught up in the quest to change the world
 🎓 Final year Student | CSE - AI at Vellore Institute of Technology
-🍴 I eat 5 research papers on LLMS for breakfast, 8 papers on Gen AI for lunch, and 9 papers on Quantum Computing for dinner (Gotta stay healthy 😬💪)
+🍴 I eat 5 research papers on LLMS for breakfast, 8 papers on Gen AI for lunch 
+   & 9 papers on Quantum Computing for dinner (Gotta stay healthy 😬💪)
 🤠 Play ukulele or flute in my free time 
 🤝 Lets Connect! My Socials are linked at the bottom 👇
 ```
@@ -151,7 +152,7 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 <div style="text-align: center">
 <i>
 
-> Have a nice day 🩵
+ Have a nice day 🩵
 
 </i>
 </div>
