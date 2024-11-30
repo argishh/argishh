@@ -42,6 +42,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  -->
 
+<br>
+
 <!-- <details open>
   <summary><span style="color:#92d0ff"><b>Languages & Libraries</b></span></summary><br>
 
@@ -122,13 +124,12 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 
 <!--END_SECTION:waka-->
 
-## 🐱‍👤 &nbsp;GitHub Stats
+## 🥷 &nbsp;GitHub Stats
 
 <p> <img width="47%"src="https://github-readme-stats.vercel.app/api?username=argishh&show_icons=true&layout=compact&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=argishh&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats"></p> 
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argishh&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&include_all_commits=true&count_private=true&theme=gotham" alt="Argish's Github Stats"></p>  -->
-<br>
 
 
 ## 🤝🏻 &nbsp; Socials
@@ -143,7 +144,6 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
     <!-- <a href="https://instagram.com/argishh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ce317c?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 </p>
 
-<br>
 
 <!-- ## 🎶 &nbsp;Listening To...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dr5aiyc686c9pls3917ic24s1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dr5aiyc686c9pls3917ic24s1&redirect=true) -->
