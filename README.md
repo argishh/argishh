@@ -150,4 +150,3 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 
 ## 
 <p align='center'><i>Have a nice day 🩵</i></p>
-<br>
