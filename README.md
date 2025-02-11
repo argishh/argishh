@@ -111,11 +111,14 @@ Checkout my resume *[here](./resume/Argish_Abhangi_Resume.pdf)*
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 
 <!--START_SECTION:waka-->
+
+<!--
 ## ⏳ &nbsp;Wakatime Stats
 
 <p align="center">
 <img src="https://wakatime.com/share/@018d0bd2-fa47-40ad-97b5-e0ec98be21ea/132dc779-cc89-455d-bc46-4ffe448ea841.svg" alt="Argish's Wakatime Stats">
 </p>
+-->
 
 <!-- <p align="center">
 <img width="70%" src="https://wakatime.com/share/@018d0bd2-fa47-40ad-97b5-e0ec98be21ea/b3a7fe44-d0c6-4bf9-8ab6-e2b749caba3c.svg" alt="Argish's Language Stats">
