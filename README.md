@@ -3,11 +3,11 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 ```py
-💻 An AI Developer and a Visionary caught up in the quest to change the world
-🎓 Final year Student | CSE - AI at Vellore Institute of Technology
-🍴 I eat 5 research papers on LLMS for breakfast, 8 papers on Gen AI for lunch 
-   & 9 papers on Quantum Computing for dinner (Gotta stay healthy 😬💪)
-🤠 Play ukulele or flute in my free time 
+🥷 A Visionary Founder/CEO caught up in the quest to change the world
+💼 AI, ML, Web3, Quantum and everything in between
+🍴 I dissect enterprises/businesses and supercharge them
+📈 For many I am a business developer / advisor 
+🤠 Catch me playing ukulele or flute on weekends 
 🤝 Lets Connect! My Socials are linked at the bottom 👇
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
