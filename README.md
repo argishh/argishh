@@ -12,7 +12,6 @@
 ```
 <!-- 📄 &nbsp;Please have a look at my [Resume](https://www.argish.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
----
 
 <!-- Checkout my resume *[here](./resume/Argish_Abhangi_Resume.pdf)* -->
 
@@ -130,9 +129,9 @@ p.s. The 'Other' language above refers to Jupyter Notebooks (.ipynb)
 
 <!--END_SECTION:waka-->
 
-## 🥷 &nbsp;GitHub Stats
+<!-- ## 🥷 &nbsp;GitHub Stats
 
-<p> <img width="47%"src="https://github-readme-stats.vercel.app/api?username=argishh&show_icons=true&layout=compact&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats">
+<p> <img width="47%"src="https://github-readme-stats.vercel.app/api?username=argishh&show_icons=true&layout=compact&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats"> -->
 <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=argishh&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" alt="Argish's Github Stats"></p>  -->
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argishh&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&include_all_commits=true&count_private=true&theme=gotham" alt="Argish's Github Stats"></p>  -->
