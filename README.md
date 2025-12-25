@@ -14,7 +14,7 @@
 
 ---
 
-Checkout my resume *[here](./resume/Argish_Abhangi_Resume.pdf)*
+<!-- Checkout my resume *[here](./resume/Argish_Abhangi_Resume.pdf)* -->
 
 <br>
 
